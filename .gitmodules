@@ -1,0 +1,3 @@
+[submodule "src/SharedLogic"]
+	path = src/SharedLogic
+	url = /Users/mac/Desktop/GitSubmodulesTest/SharedLogic
